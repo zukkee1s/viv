@@ -1,0 +1,19 @@
+﻿body {
+    background: black;
+}
+#header{
+         color: white;       
+       }
+p{
+    padding-left: 2%;
+}
+img{
+    width: 100%;
+}
+#footer {
+    background: #62639B;
+    clear: both;
+    padding-botton: 40;
+    padding-top: 10%;
+    text-align: center;
+}
